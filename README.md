@@ -37,7 +37,9 @@ The app focuses on simplicity, usability, and a clean visual experience, featuri
 
 ## 🖼️ Screenshots
 
-<p align="center">
+<p align="center"><img width="1080" height="2400" alt="Screenshot_20261112_184453" src="https://github.com/user-attachments/assets/78bdb442-f54f-413f-b631-7eafb4aee0f4" />
+<img width="1080" height="2400" alt="Screenshot_20261112_184501" src="https://github.com/user-attachments/assets/2cf1509f-f0bf-4f1e-b196-a0d7d2c6d3f7" />
+
   <img src="screenshots/flashlight-off.png" alt="Flashlight Off" width="250"/>
   &nbsp;&nbsp;&nbsp;
   <img src="screenshots/flashlight-on.png" alt="Flashlight On" width="250"/>
