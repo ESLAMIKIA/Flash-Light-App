@@ -93,13 +93,7 @@ Flashlight/
 │           │   ├── layout/
 │           │   └── values/
 │           └── AndroidManifest.xml
-├── screenshots/
-│   ├── app-logo.png
-<img width="1254" height="1254" alt="ChatGPT Image Nov 12, 2026, 06_47_40 PM" src="https://github.com/user-attachments/assets/f77c1228-54db-40b6-9939-1aebc0a4181a" />
-│   ├── flashlight-off.png
-<img width="1080" height="2400" alt="Screenshot_20261112_184453" src="https://github.com/user-attachments/assets/7012824a-e069-4537-83d2-5f635a788ec7" />
-│   └── flashlight-on.png
-<img width="1080" height="2400" alt="Screenshot_20261112_184501" src="https://github.com/user-attachments/assets/4d92b7fb-f02c-4917-9b57-5ac0f0eaeaeb" />
+
 └── README.md
 ```
 
@@ -119,7 +113,7 @@ Devices without a camera flash are not supported.
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Amir Erfan Eslamikia**
 
 Developed as an Android application project using Kotlin and Android Studio.
 
